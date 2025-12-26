@@ -21,23 +21,8 @@ The application serves as a scalable frontend that can integrate with backend se
 ## 🖼 Screenshots / Demo
 
 ### Home Screen
-<img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/7946af72-3330-4d8b-9157-6e84d58390d3" /> <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/7ff6c042-32d2-44c2-8f27-1647fec0c0d3" />
-<img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/373e8e92-6761-46a2-a6c5-e3e3fa787188" /><img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/9096c7c2-5f21-4622-ae66-cce7787fc73c" />
+<img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/d4990ffa-a3b1-4e22-b8ac-cebb2a5fca33" /> <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/47655222-8178-4c70-afd8-97e82f950670" /> <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/3380fdf8-5598-4121-9d98-1a58c0e659cb" />
 
-
-
-
-
-
-### Violation Detection
-
-![Violation Detection](screenshots/violation.png)
-
-### Map View
-
-![Map View](screenshots/map.png)
-
-> 💡 Place your screenshots in a `screenshots/` folder in the repo.
 
 ---
 
