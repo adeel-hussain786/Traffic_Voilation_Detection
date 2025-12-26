@@ -20,7 +20,7 @@ The application serves as a scalable frontend that can integrate with backend se
 
 ## 🖼 Screenshots / Demo
 
-### Home Screen
+### App Design
 <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/d4990ffa-a3b1-4e22-b8ac-cebb2a5fca33" /> <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/47655222-8178-4c70-afd8-97e82f950670" /> <img width="303" height="700" alt="image" src="https://github.com/user-attachments/assets/3380fdf8-5598-4121-9d98-1a58c0e659cb" />
 
 
