@@ -1,3 +1,4 @@
+
 ---
 
 # 🚦 Traffic Violation Detection (TrafficGuard)
@@ -14,6 +15,26 @@ The application serves as a scalable frontend that can integrate with backend se
 * 🧠 Designed for integration with traffic violation detection systems
 * 🧩 Clean and modular project structure
 * 🔒 Ready for backend & API integration
+
+---
+
+## 🖼 Screenshots / Demo
+
+### Home Screen
+
+![Home Screen](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/0ba6c8c3-e9cb-4989-be47-c5b5ee6fef2d" />
+)
+
+
+### Violation Detection
+
+![Violation Detection](screenshots/violation.png)
+
+### Map View
+
+![Map View](screenshots/map.png)
+
+> 💡 Place your screenshots in a `screenshots/` folder in the repo.
 
 ---
 
@@ -34,6 +55,7 @@ TrafficGuard/
 │── backend/          # Backend / API integration (optional)
 │── android/          # Android native code
 │── ios/              # iOS native code
+│── screenshots/      # App screenshots
 │── App.js            # Root component
 │── index.js          # App entry point
 │── package.json      # Dependencies & scripts
@@ -79,8 +101,6 @@ Keep this terminal running.
 
 #### 📱 Android
 
-Make sure an emulator or physical device is connected:
-
 ```bash
 npx react-native run-android
 ```
@@ -90,8 +110,6 @@ npx react-native run-android
 ```bash
 npx react-native run-ios
 ```
-
-✅ If setup is correct, the app will launch automatically.
 
 ---
 
@@ -145,4 +163,6 @@ Fork the repository and submit a pull request.
 This project is intended for **educational and academic use**.
 
 ---
+
+
 
